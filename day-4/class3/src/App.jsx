@@ -3,6 +3,9 @@ import Card from './components/Card'
 import Button from './components/Button'
 import Array from './components/Array'
 
+
+// Props
+
 const App = () => {
 
   const users = ['Anubhav', 'Mohit', 'Rohit']
